@@ -7,5 +7,7 @@ Proyecto de desarrollo de aplicacion web
 ```
 if (Neri){
   print("TU QUE WEEY!");
+} else if (Felix) {
+  print("Estoy en el escudo del amor");
 }
 ```
