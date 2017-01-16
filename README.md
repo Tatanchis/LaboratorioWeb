@@ -11,3 +11,8 @@ if (Neri){
   print("Estoy en el escudo del amor");
 }
 ```
+
+### PROGRAMMING LANGUAGES
+1. Javascript
+2. Python
+3. Nodejs
